@@ -22,3 +22,8 @@ The project includes an `ai_use()` function that sends a prompt to a large langu
 Note: API key is hidden for security — you'll need to set your own in your system environment using:
 bas
 export my_api_python="my_actual_key"
+
+Built by Tejas Bansal  
+BBA FinTech student at NMIMS  
+CFA Level 1 candidate  
+Passionate about combining Finance + Tech to build real-world tools
